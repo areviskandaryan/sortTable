@@ -1,0 +1,17 @@
+body{
+    margin:20px;
+}
+
+
+
+.sortable-table,th,td{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.sortable-table {
+    width:30%;
+    margin:50px
+
+}
